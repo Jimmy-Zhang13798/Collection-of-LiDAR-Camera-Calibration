@@ -23,9 +23,9 @@ Many context of this collection is from [this repo ](https://github.com/Deephome
 |[Optimising the selection of samples for robust lidar camera calibration, 2021, ITSC ](https://arxiv.org/abs/2103.12287)| Chessboard |  | | [Camera-LiDAR Calibration](https://github.com/acfr/cam_lidar_calibration) |  |Yes:有详细ros流程，还有youtube视频教学|
 
 
-[ ROS official method ](http://wiki.ros.org/cam2lidar/Tutorials/How%20to%20calibrate%20Lidar%20and%20Camera).
+[ ROS official method. ](http://wiki.ros.org/cam2lidar/Tutorials/How%20to%20calibrate%20Lidar%20and%20Camera)
 
-[ Another high star repo ](https://github.com/heethesh/lidar_camera_calibration)
+[ Another high star repo. ](https://github.com/heethesh/lidar_camera_calibration)
 
 
 > C: camera, L: LiDAR, a: automaic, m: manual
