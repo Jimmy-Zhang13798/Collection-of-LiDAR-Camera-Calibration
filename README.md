@@ -3,17 +3,7 @@
 A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes. 
 Mainly check Achievability.
 
-**Outline**
-- [Introduction](#0-introduction)
-- [Target-based methods](#1-target-based-methods)
-- [Targetless methods](#2-targetless-methods)
-  - [Motion-based methods](#21-motion-based-methods)
-  - [Scene-based-methods](#22-scene-based-methods)
-    - [Traditional Methods](#221-traditional-methods)
-    - [Deep-learning Methods](#222-deep-learning-methods)
-- [Other Toolboxes](#3-other-toolboxes)
-
-
+Many context of this collection is from [this repo ](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## 1. Target-based methods
 |Paper|Target|Feature|Optimization|Toolbox|Note|Achievability|
