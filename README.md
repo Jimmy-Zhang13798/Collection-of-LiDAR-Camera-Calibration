@@ -4,7 +4,7 @@ A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes.
 
 Main context of this collection is from [this repo.](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration). And I added more to it.
 
-I checked the Papers, Toolboxs one by one, to see if they are good for our research(The good ones are explianed in Chinese).
+I checked the Papers, Toolboxs one by one, to see if they are good for our research(The good and open-sourced ones are explained in Chinese so far, but will be updated in English).
 
 ## 1. Target-based methods
 |Paper|Target|Feature|Optimization|Toolbox|Note|Achievability|
